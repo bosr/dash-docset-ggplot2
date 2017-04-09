@@ -59,6 +59,7 @@ Then build ggplot2's doc site
 
 Finally, copy the two icons PNG files and the `dashing.json` from this repo to the `docs` folder and run
 
+    cd docs
     dashing build ggplot2
 
 This parses the docs and produces a `ggplot2.docset` folder in the `docs` folder.
