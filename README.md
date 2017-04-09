@@ -6,6 +6,8 @@ As M. Peteuil, I use `dashing`. The result is not perfect, but it fits my needs 
 
 The process could be automated, but I don't have time for this.
 
+Here are the detailed build instructions.
+
 
 ## Pre-requisites
 Imagemagick should be installed on your system (on the Mac: `brew install imagemagick`).
