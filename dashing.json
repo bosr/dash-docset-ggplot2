@@ -1,0 +1,17 @@
+{
+    "name": "ggplot2",
+    "package": "ggplot2",
+    "index": "index.html",
+    "selectors": {
+        "div.page-header + p + pre span.fu": {
+          "type": "Function",
+          "requiretext": ".{2,}"
+        }
+    },
+    "ignore": [
+        "ABOUT"
+    ],
+    "icon32x32": "icon.png",
+    "allowJS": false,
+    "ExternalURL": "http://ggplot2.tidyverse.org"
+}
